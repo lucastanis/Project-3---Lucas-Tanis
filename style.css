@@ -1,0 +1,170 @@
+*{
+  padding: 0px ;
+  margin: 0px;
+  font-family:sans-serif ;
+}
+  
+body {
+  font-size: 120%;
+  background: #F8F8FF;
+  background-image: url(./img/homepaginafoto.jpg);
+}
+
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+form, .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #5F9EA0;
+  border: none;
+  border-radius: 5px;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+
+
+nav {
+  background-color: #5F9EA0;
+  color: white;
+  width: 100vw;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  height: 13vh;
+}
+
+nav div {
+  display: flex;
+  width: 90vw;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  width: 30vw;
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  margin: 0 1rem;
+}
+
+nav li {
+  margin: 0 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  margin: 1rem 0;
+}
+.tbl {
+  background-blend-mode: multiply;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+article {
+  color: #5F9EA0;
+  font-weight: 300rem;
+  font-size: 2rem;
+  position: fixed;
+  margin-top: 38rem;
+}
+
+.tbl button {
+  padding: 1rem 3rem 1rem 3rem;
+  font-size: 1rem;
+  background-color: #5F9EA0;
+  color: white;
+  border: 0 none white;
+  font-family: "Poppins", sans-serif;
+  position: fixed;
+  margin-top: 55rem;
+}
+input, textarea {
+  display: block;
+  width: 400px;
+  font-size: 18px;
+  margin: 7px 0px;
+}
+label {
+  display: block;
+  padding: 2px 0px;
+}
+.product1 {
+  margin-left: 2rem;
+  align-items: center;
+}
+img {
+  width: 150px;
+  height: 150px;
+} 
+     
+
+
+
+
+
